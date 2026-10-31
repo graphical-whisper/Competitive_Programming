@@ -5,3 +5,6 @@
 # Object and debug files
 *.o
 *.obj
+
+# Editor settings
+.vscode/
